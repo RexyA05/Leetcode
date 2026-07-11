@@ -1,6 +1,6 @@
 class Solution(object):
     def findMedianSortedArrays(self, nums1, nums2):
-       comb =nums1+nums2
+       comb=nums1+nums2
        comb.sort()
        n=len(comb)
        if n%2==0:

@@ -1,9 +1,13 @@
 class Solution(object):
     def missingNumber(self, nums):
-        high=len(nums)
-        for i in range(high+1):
-            if i not in nums:
-                return i
+        n=len(nums)
+        summation=0
+        actual_sum=(n*(n+1))/2
+        for i in range(n):
+            summation+=nums[i]
+        missing_num=(actual_sum-summation)
+        return missing_num
+
 
 
         

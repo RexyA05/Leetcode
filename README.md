@@ -31,3 +31,15 @@ Each solution includes:
 ## 📌 Note
 
 Solutions reflect my own understanding and may not always be the most optimal — contributions, suggestions, and alternative approaches are welcome!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/RexyA05/Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/RexyA05/Leetcode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->

@@ -52,4 +52,12 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RexyA05/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RexyA05/Leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RexyA05/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

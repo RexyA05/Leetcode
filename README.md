@@ -79,6 +79,7 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 | ------- |
 | [0141-linked-list-cycle](https://github.com/RexyA05/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/RexyA05/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/RexyA05/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RexyA05/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -92,4 +93,5 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/RexyA05/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/RexyA05/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

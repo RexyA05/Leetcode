@@ -64,6 +64,7 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RexyA05/Leetcode/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/RexyA05/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,6 +74,7 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 | ------- |
 | [0027-remove-element](https://github.com/RexyA05/Leetcode/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/RexyA05/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/RexyA05/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RexyA05/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Linked List
 |  |
@@ -81,6 +83,7 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 | [0141-linked-list-cycle](https://github.com/RexyA05/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/RexyA05/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RexyA05/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/RexyA05/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RexyA05/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -95,4 +98,5 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/RexyA05/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RexyA05/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/RexyA05/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->

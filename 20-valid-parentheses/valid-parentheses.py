@@ -1,14 +1,14 @@
 class Solution(object):
     def isValid(self, s):
-        stk=[]
-        dict={')':'(',']':'[','}':'{'}
-        for char in s:
-            if char in dict:
-                if not stk or stk[-1]!=dict[char]:
-                    return False
+        stack=[]
+        closeToOpen={")":"(","]":"[","}":"{"}
+        for c in s:
+            if c in closeToOpen:
+                if stack and stack[-1]==closeToOpen[c]:
+                    stack.pop()
                 else:
-                    stk.pop()
+                    return False
             else:
-                stk.append(char)
-        return not stk
+                stack.append(c)
+        return True if not stack else False
 

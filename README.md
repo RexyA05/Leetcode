@@ -64,6 +64,7 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RexyA05/Leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/RexyA05/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/RexyA05/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
@@ -99,4 +100,8 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 | [0203-remove-linked-list-elements](https://github.com/RexyA05/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RexyA05/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RexyA05/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/RexyA05/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

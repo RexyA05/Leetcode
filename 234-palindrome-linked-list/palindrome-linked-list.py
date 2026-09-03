@@ -6,19 +6,18 @@
 class Solution(object):
     def isPalindrome(self, head):
         fast,slow=head,head
-        #find the middle() element
         while fast and fast.next:
             fast=fast.next.next
             slow=slow.next
         prev=None
         while slow:
-            tmp=slow.next
+            temp=slow.next
             slow.next=prev
             prev=slow
-            slow=tmp
+            slow=temp
         left,right=head,prev
         while right:
-            if left.val != right.val:
+            if left.val!=right.val:
                 return False
             else:
                 left=left.next

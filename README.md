@@ -39,6 +39,7 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 | ------- |
 | [0001-two-sum](https://github.com/RexyA05/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/RexyA05/Leetcode/tree/master/0027-remove-element) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RexyA05/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RexyA05/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RexyA05/Leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RexyA05/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/RexyA05/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/RexyA05/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
@@ -96,6 +98,7 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 | ------- |
 | [0002-add-two-numbers](https://github.com/RexyA05/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/RexyA05/Leetcode/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RexyA05/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |

@@ -68,6 +68,7 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 | [0150-evaluate-reverse-polish-notation](https://github.com/RexyA05/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/RexyA05/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/RexyA05/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/RexyA05/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/RexyA05/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
@@ -112,6 +113,7 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 | ------- |
 | [0155-min-stack](https://github.com/RexyA05/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/RexyA05/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/RexyA05/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -120,4 +122,5 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RexyA05/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/RexyA05/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->

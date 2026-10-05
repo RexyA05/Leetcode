@@ -41,6 +41,7 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 | [0027-remove-element](https://github.com/RexyA05/Leetcode/tree/master/0027-remove-element) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RexyA05/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RexyA05/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2073-time-needed-to-buy-tickets](https://github.com/RexyA05/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,4 +124,9 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RexyA05/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RexyA05/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [2073-time-needed-to-buy-tickets](https://github.com/RexyA05/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+## Simulation
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/RexyA05/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->

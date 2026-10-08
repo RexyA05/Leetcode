@@ -39,6 +39,7 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 | ------- |
 | [0001-two-sum](https://github.com/RexyA05/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/RexyA05/Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/RexyA05/Leetcode/tree/master/0031-next-permutation) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RexyA05/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RexyA05/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2073-time-needed-to-buy-tickets](https://github.com/RexyA05/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -79,6 +80,7 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/RexyA05/Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/RexyA05/Leetcode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/RexyA05/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/RexyA05/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RexyA05/Leetcode/tree/master/0876-middle-of-the-linked-list) |

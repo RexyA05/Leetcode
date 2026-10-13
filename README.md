@@ -41,6 +41,7 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 | [0027-remove-element](https://github.com/RexyA05/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/RexyA05/Leetcode/tree/master/0031-next-permutation) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RexyA05/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0621-task-scheduler](https://github.com/RexyA05/Leetcode/tree/master/0621-task-scheduler) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RexyA05/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2073-time-needed-to-buy-tickets](https://github.com/RexyA05/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
@@ -49,14 +50,17 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 | [0001-two-sum](https://github.com/RexyA05/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RexyA05/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/RexyA05/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0621-task-scheduler](https://github.com/RexyA05/Leetcode/tree/master/0621-task-scheduler) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RexyA05/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/RexyA05/Leetcode/tree/master/0621-task-scheduler) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RexyA05/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/RexyA05/Leetcode/tree/master/0621-task-scheduler) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RexyA05/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -131,4 +135,12 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/RexyA05/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/RexyA05/Leetcode/tree/master/0621-task-scheduler) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/RexyA05/Leetcode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->

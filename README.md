@@ -40,6 +40,7 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 | [0001-two-sum](https://github.com/RexyA05/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/RexyA05/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/RexyA05/Leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/RexyA05/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RexyA05/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0621-task-scheduler](https://github.com/RexyA05/Leetcode/tree/master/0621-task-scheduler) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RexyA05/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -143,4 +144,8 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/RexyA05/Leetcode/tree/master/0621-task-scheduler) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/RexyA05/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->

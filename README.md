@@ -68,6 +68,7 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RexyA05/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/RexyA05/Leetcode/tree/master/0020-valid-parentheses) |
+| [0784-letter-case-permutation](https://github.com/RexyA05/Leetcode/tree/master/0784-letter-case-permutation) |
 ## Stack
 |  |
 | ------- |
@@ -148,4 +149,12 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/RexyA05/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+## Backtracking
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/RexyA05/Leetcode/tree/master/0784-letter-case-permutation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/RexyA05/Leetcode/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->

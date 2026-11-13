@@ -42,6 +42,7 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 | [0031-next-permutation](https://github.com/RexyA05/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RexyA05/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RexyA05/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0209-minimum-size-subarray-sum](https://github.com/RexyA05/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0621-task-scheduler](https://github.com/RexyA05/Leetcode/tree/master/0621-task-scheduler) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RexyA05/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2073-time-needed-to-buy-tickets](https://github.com/RexyA05/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -82,6 +83,7 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RexyA05/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/RexyA05/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,6 +151,7 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/RexyA05/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/RexyA05/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -157,4 +160,8 @@ Solutions reflect my own understanding and may not always be the most optimal â€
 |  |
 | ------- |
 | [0784-letter-case-permutation](https://github.com/RexyA05/Leetcode/tree/master/0784-letter-case-permutation) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/RexyA05/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
